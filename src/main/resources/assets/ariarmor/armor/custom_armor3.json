@@ -1,0 +1,21 @@
+{
+  "id": "aria",
+
+  "vanillaType": "IRON",
+  "model": "geo/aria.geo.json",
+  "animation": "animations/aria.animation.json",
+  "texture": "textures/armor/aria.png",
+
+  "advanced": {
+    "animationName": "anim.aria.idle",
+
+    "headBone": "armorHead",
+    "bodyBone": "armorBody",
+    "rightArmBone": "armorRightArm",
+    "leftArmBone": "armorLeftArm",
+    "rightLegBone": "armorRightLeg",
+    "leftLegBone": "armorLeftLeg",
+    "rightBootBone": "armorRightBoot",
+    "leftBootBone": "armorLeftBoot"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "id": "demon_armor",
+
+  "vanillaType": "DIAMOND",
+  "model": "geo/geckoarmor.geo.json",
+  "animation": "animations/geckoarmor.animation.json",
+  "texture": "textures/armor/geckoarmor_red.png"
+}
